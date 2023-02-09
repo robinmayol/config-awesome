@@ -1,0 +1,5 @@
+require("bindings.key.general")
+require("bindings.key.tags")
+require("bindings.key.focus")
+require("bindings.key.layout")
+require("bindings.key.client")
